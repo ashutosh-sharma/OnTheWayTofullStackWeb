@@ -17,8 +17,8 @@ You will find helpful comments in the code, see the code for more.
     
     See the message 'web server is running on port 8080'.
 3. Use *wget* command to use terminal to send a request to a server:
-     You have to open other instance of terminal to check if the server is working or not.
-     Now, use *wget* command to request localhost:8080. We will get our file downloaded. Use *cat* command to see whats in that.
+     You have to open other instance of terminal to check if the server is working or not(Which will be used to make request to server).
+     Now, use *wget* command to request localhost:8080. We will get our file downloaded. Use *cat* command to see its contents.
     ![clientside](https://user-images.githubusercontent.com/25898173/35195100-6c0b0070-fee4-11e7-96a5-046d72da2b06.JPG)
     
     *This is client side*
@@ -26,6 +26,8 @@ You will find helpful comments in the code, see the code for more.
     ![serverside](https://user-images.githubusercontent.com/25898173/35195137-df490758-fee4-11e7-88e1-ee4884ae19ea.JPG)
     
     *This is server side*
+    
+    You can see on the server-side that someone has made a GET request to server.
 
 
 ### Done.
