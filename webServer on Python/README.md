@@ -1,16 +1,16 @@
 # Follow this to host your own WebServer using python:
 
-## Technologies used:
+## Technologies used
 1. A linux machine/ (windows would also work but I have done it on linux)
 2. Python 2.7
 
-## How to make?:
+## How to make?
 I have used BaseHTTPRequestHandler class of python to create serverSide code.
 I am sending a GET request from client side and hadnlign it in the sever side.
 For the sake of simplicity, I am handling the url which are ending with 'hello'.
 You will find helpful comments in the code, see the code for more.
 
-## How to use?:
+## How to use?
 1. Download the file from repo.
 2. Use terminal to get the python code running:
     ![runwebserver](https://user-images.githubusercontent.com/25898173/35195030-479f93b4-fee3-11e7-8346-8dfbe1cb4dbb.JPG)
@@ -28,5 +28,5 @@ You will find helpful comments in the code, see the code for more.
     *This is server side*
 
 
-# done.
+### Done.
             
