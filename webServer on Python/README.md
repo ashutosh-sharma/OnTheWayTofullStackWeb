@@ -1,8 +1,8 @@
 # Follow this to host your own WebServer using python:
 
 ## Technologies used:
-1. Python 2.7
-2. A linux machine/ (windows would also work but I have done it on linux)
+1. A linux machine/ (windows would also work but I have done it on linux)
+2. Python 2.7
 
 ## How to make?:
 I have used BaseHTTPRequestHandler class of python to create serverSide code.
